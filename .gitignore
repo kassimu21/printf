@@ -1,2 +1,2 @@
-main.c
-*.out
+test/*
+1-main.c
